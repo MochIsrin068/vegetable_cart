@@ -1,6 +1,7 @@
-# vegetable_cart
+# Vegetable Cart
+Vegetable Cart App With Firebase
 
-A new Flutter project.
+<img src="screen.gif"/>
 
 ## Getting Started
 
