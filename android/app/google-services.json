@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394882181588",
+    "firebase_url": "https://shopping-cart-98274.firebaseio.com",
+    "project_id": "shopping-cart-98274",
+    "storage_bucket": "shopping-cart-98274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394882181588:android:d35f6029d032cf8a",
+        "android_client_info": {
+          "package_name": "com.example.vegetable_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394882181588-21l60v8kkdr7i78dctcdvsa7krq0678d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Gi6onCy1Pc8BUkW6FQJHiCRBMvIFdDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394882181588-21l60v8kkdr7i78dctcdvsa7krq0678d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
